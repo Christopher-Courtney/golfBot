@@ -42,7 +42,7 @@ def show_webcam(mirror=False):
         if cv2.waitKey(1) == 27:
             break  # esc to quit
     cv2.destroyAllWindows()
-    #change to file
+    #change to fjdklsajfdl;ksajfl;dsa
 
 
 def main():
